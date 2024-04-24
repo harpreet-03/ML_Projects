@@ -1,6 +1,6 @@
 # Energy Efficiency Prediction with Machine Learning
 
-![Energy Efficiency](https://example.com/energy_efficiency_image.png)
+![Energy Efficiency](https://wallpaperaccess.com/full/2183826.jpg)
 
 Welcome to the Energy Efficiency Prediction project! In this repository, we explore the fascinating realm of energy analysis using machine learning techniques. Our goal is to predict heating and cooling loads for various building shapes by analyzing their structural and design characteristics.
 
