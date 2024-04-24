@@ -1,6 +1,7 @@
 # <h1>Energy Efficiency Prediction with Machine Learning</h1>
 
 <br>
+<br>
 
 
 ![Energy Efficiency](https://wallpaperaccess.com/full/2183826.jpg)
@@ -64,7 +65,9 @@ Contributions are welcome! If you have ideas for improvements, feature requests,
 
 We extend our gratitude to the creators of the Ecotect software and the original authors of the dataset for enabling research and exploration in the field of energy efficiency.
 
-Dataset taken from UCI Machine Learning Website : [Link to Colab notebooks](https://www.kaggle.com/datasets/cherdon/uci-energy-efficiency)
+## About Dataset
+
+Dataset taken from UCI Machine Learning Website : [Energy Efficiency](https://www.kaggle.com/datasets/cherdon/uci-energy-efficiency)
 
 ---
 
