@@ -33,16 +33,10 @@ The dataset features eight attributes, denoted as X1 through X8, representing di
 Our project is organized as follows:
 
 ```
-├── data/                   # Directory for dataset storage
-│   └── energy_data.csv    # Raw dataset file
-├── models/                 # Directory for trained models
-│   └── ...                 # Trained model files
-├── notebooks/              # Jupyter notebooks for data exploration and model development
-│   └── ...                 # Individual notebooks
-├── src/                    # Source code for data preprocessing, model training, and evaluation
-│   └── ...                 # Python modules
-├── README.md               # You are here!
-└── requirements.txt        # Dependencies for the project
+├── ENB2012_data.xlsx           # Raw dataset file
+├── Energy_Efficiency_ML_Project.ipynb  # Jupyter notebook for the main project
+└── README.md                   # You are here!
+
 ```
 
 ## Getting Started
